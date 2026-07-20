@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋 I'm Palepu Mounika
 
-<!--
-**mounikaa6816/mounikaa6816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring DevOps Engineer
 
-Here are some ideas to get you started:
+I am transitioning into DevOps after nearly two years of professional experience in GIS Mapping and Data Operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building cloud infrastructure, automating deployments, and learning modern DevOps practices.
+
+---
+
+## 💻 Technical Skills
+
+- ☁️ AWS
+- 🐧 Linux
+- 🐳 Docker
+- ☸️ Kubernetes
+- ⚙️ Jenkins
+- 🌍 Terraform
+- 🔧 Git & GitHub
+- 🚀 GitHub Actions
+- 🐍 Python
+- 📜 Bash Scripting
+- 📊 Prometheus
+- 📈 Grafana
+
+---
+
+## 🌱 Currently Learning
+
+- Linux
+- AWS
+- Docker
+- Kubernetes
+- Jenkins
+- Terraform
+- GitHub Actions
+- AI DevOps Assistant
+
+---
+
+## 📌 Featured Projects
+
+- Linux Administration Lab
+- Docker Flask Application
+- Jenkins CI/CD Pipeline
+- Kubernetes Learning Lab
+- Terraform AWS Infrastructure
+- AI DevOps Assistant (In Progress)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/mounika-palepu
