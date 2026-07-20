@@ -56,6 +56,3 @@ I enjoy building cloud infrastructure, automating deployments, and learning mode
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/mounika-palepu
-## 📊 GitHub Statistics
-
-![Mounika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mounikaa6816&show_icons=true&theme=tokyonight)
