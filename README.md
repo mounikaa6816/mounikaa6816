@@ -19,17 +19,15 @@ I enjoy building cloud infrastructure, automating deployments, and learning mode
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning & Building
 
-- Linux
-- AWS
-- Docker
-- Kubernetes
-- Jenkins
-- Terraform
-- GitHub Actions
-- AI DevOps Assistant
-
+- AWS Cloud & Infrastructure
+- Docker & Kubernetes
+- Jenkins & GitHub Actions
+- Terraform & Infrastructure as Code
+- Prometheus & Grafana
+- AI-powered DevOps Assistant
+- LLMOps & Cloud Automation
 ---
 
 ## 📌 Featured Projects
