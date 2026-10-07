@@ -22,25 +22,36 @@ I enjoy building cloud infrastructure, automating deployments, and learning mode
 ## 🌱 Currently Learning & Building
 
 - AWS Cloud & Infrastructure
+- Linux Administration
 - Docker & Kubernetes
 - Jenkins & GitHub Actions
 - Terraform & Infrastructure as Code
 - Prometheus & Grafana
 - AI-powered DevOps Assistant
 - LLMOps & Cloud Automation
+
 ---
 
 ## 📌 Featured Projects
 
-- Linux Administration Lab
-- Docker Flask Application
-- Jenkins CI/CD Pipeline
-- Kubernetes Learning Lab
-- Terraform AWS Infrastructure
-- AI DevOps Assistant (In Progress)
+- 🐧 Linux Administration Lab
+- 🐳 Dockerized Flask Application
+- 🔄 Jenkins CI/CD Pipeline
+- ☸️ Kubernetes Application Deployment
+- 🏗️ Terraform AWS Infrastructure
+- 🤖 AI DevOps Assistant — In Progress
+
+---
+
+## 🎯 Career Focus
+
+**DevOps Engineer | Cloud | Automation | AI/LLMOps**
+
+Currently building hands-on projects in AWS, Linux, Docker, Kubernetes, CI/CD, Terraform, and AI-powered DevOps automation.
 
 ---
 
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/mounika-palepu
+- GitHub: https://github.com/mounikaa6816
